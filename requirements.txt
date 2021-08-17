@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+jupyter
+# python 3.x
+torch
+torchvision
+# need to install using conda, hit kernel crash using pip
+faiss-cpu
+transformers
+sentence-transformers
